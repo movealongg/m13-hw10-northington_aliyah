@@ -2,6 +2,9 @@
 var section = document.querySelector('section.hide');
 var button = document.querySelector('button');
 
+function slideToggle{
+	
+};
 
 
 //jQuery functionality will go here. Make sure to iclude the document.ready function.
