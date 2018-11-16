@@ -3,7 +3,7 @@ var section = document.querySelector('section.hide');
 var button = document.querySelector('button');
 
 function slideToggle{
-	
+	section.classList.toggle('hide');
 };
 
 
