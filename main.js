@@ -1,5 +1,6 @@
 //JavaScript Functionalit Part 1 Goes Here. Comment it all out once finsihed.
-
+var section = document.querySelector('section.hide');
+var button = document.querySelector('button');
 
 
 
